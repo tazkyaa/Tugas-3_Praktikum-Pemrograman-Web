@@ -1,4 +1,7 @@
-Di tugas ini, saya akan menghubungkan tampilan (HTML/CSS/JS dari Tugas 2 Prak. Pemrograman Web) dengan database (MySQL) supaya datanya bisa CRUD (Create, Read, Update, Delete). 
-Saya diberi tugas tidak perlu membuat tampilan baru, cukup edit tampilan dari Tugas 2. 
-Tugas utamanya adalah menghubungkan ke database dan membuat fungsinya jalan. 
-Sebelum melakukan tugas, file diubah menjadi .php, dan memperbaiki inputan agar bisa dilakukan proses HTTP Method, biar bisa berpindahan data intinya.
+🌸 Deskripsi Tugas :
+
+Di tugas ini, saya akan menghubungkan tampilan (HTML/CSS/JS dari Tugas 2 Prak. Pemrograman Web) dengan database MySQL supaya datanya bisa menjalankan proses CRUD (Create, Read, Update, Delete) 🌸
+Saya tidak perlu membuat tampilan baru — cukup mengedit tampilan dari Tugas 2 agar bisa terhubung dengan backend.
+
+Tugas utamanya adalah menghubungkan halaman web dengan database dan memastikan seluruh fungsinya berjalan dengan benar ✨
+Sebelum mengerjakan, file tampilan diubah menjadi .php, lalu input–input diperbaiki agar dapat diproses lewat HTTP Method (GET/POST) sehingga data bisa berpindah antar-halaman dengan baik.
